@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  let counterPLain = 0;
+  
 
   //counter is called STATE
   //serCounter is teh function to  update the state
